@@ -1,5 +1,7 @@
 # Stepik PyPI exercise
 
+## This repo just for educational matter on stepik.org
+
 ## Task
 
 Create bin/ folder
